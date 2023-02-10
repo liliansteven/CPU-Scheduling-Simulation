@@ -2,7 +2,7 @@
 
 - Before going into the following types of Scheduling, there are some sources will help you to understand more than what is in the assignment :
 1. [jenny's playlist in Operating Systems](https://www.youtube.com/playlist?list=PLdo5W4Nhv31a5ucW_S1K3-x6ztBRD-PNa)
-2. [CPU Scheduling | Chapter-5 | Operating System , Neso Academy's playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHka)
+2. [CPU Scheduling | Chapter-5 | Operating System , Neso Academy's playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk)
 3. [Article : CPU Scheduling in Operating Systems](https://www.geeksforgeeks.org/cpu-scheduling-in-operating-systems/)
 ### **(1) preemptive Shortest- Job First (SJF) Scheduling with context switching.**
 ![alt text](https://media.geeksforgeeks.org/wp-content/uploads/20221109131350/SJF.png)
@@ -13,6 +13,17 @@
 2. [Shortest Remaining Time First (Preemptive SJF) Scheduling Algorithm](https://www.geeksforgeeks.org/shortest-remaining-time-first-preemptive-sjf-scheduling-algorithm/)
 
 3. [Shortest Job First – Preemptive Scheduling with Example (SJF)](https://prepinsta.com/operating-systems/shortest-job-first-scheduling-preemptive-example/#:~:text=Shortest%20Job%20First%20%E2%80%93%20Preemptive%20Scheduling%20Algorithm%20is%20an%20algorithm%20in,job%20with%20shorter%20burst%20time.)
+
+- Videos
+1. [SJF with processes having CPU and IO Time | CPU Scheduling Algorithm in OS](https://www.youtube.com/watch?v=0l_BLaA6TcI)
+
+2. [Shortest Job First(SJF) Scheduling Algorithm with example | Operating System](https://www.youtube.com/watch?v=pYO-FAg-TpQ)
+
+3. [Scheduling Algorithms - Shortest Job First (SJF)](https://www.youtube.com/watch?v=t0g9b3SJECg)
+
+3. [Shortest Job First Scheduling (Solved Problem 1)](https://www.youtube.com/watch?v=lpM14aWgl3Q)
+
+4. [Preemptive Shortest Job First (SRTF) - CPU Scheduling](https://www.youtube.com/watch?v=h-e7QtjfmkI)
 
 ### **(2) Round Robin (RR) with context switching.** 
 ![alt text](https://www.gatevidyalay.com/wp-content/uploads/2018/10/Round-Robin-Scheduling.png)
@@ -26,7 +37,7 @@
 
 4. [Selfish Round Robin CPU Scheduling](https://www.geeksforgeeks.org/selfish-round-robin-cpu-scheduling/)
 
-- videos : 
+- Videos : 
 1. [Round Robin(RR) CPU Scheduling Algorithm in OS with example](https://www.youtube.com/watch?v=-jFGYDfWkXI)
 
 2. [Round Robin(RR) Scheduling example with advantages and drawbacks | Operating Systems](https://www.youtube.com/watch?v=chjRXx7WvM0)
@@ -55,7 +66,7 @@
 
 5. [Priority Based CPU Scheduling Algorithm ](https://chiraggoyaliit.medium.com/different-cpu-scheduling-algorithms-in-operating-systems-79a221a9e595)
 
-- videos : 
+- Videos : 
 1. [Preemptive Priority Scheduling Algorithm in OS with example | Operating System](https://www.youtube.com/watch?v=23h3lkHNL_s)
 
 2. [Starvation and Aging in Priority Scheduling | Operating Systems](https://www.youtube.com/watch?v=01DiVzZbRjY)
